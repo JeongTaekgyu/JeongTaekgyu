@@ -1,4 +1,5 @@
 ### Hi there 👋
+안녕하세요 저는 세상에서 제일 멋있는 남자 정랙규입니다
 
 <!--
 **JeongTaekgyu/JeongTaekgyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
