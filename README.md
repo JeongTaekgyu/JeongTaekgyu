@@ -1,4 +1,36 @@
-### Hi there 👋
+### 정택규 (BackEnd 개발자)👋
+세상에 긍정적인 영향을 미치고 싶은 개발자 정택규입니다.
+
+<br>
+
+📌Stack
+<br>
+<div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+</div>
+<div>
+<img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+</div>
+<br><br>
+
+📌Tools
+<br>
+<div>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-181717?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
+</div>
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongTaekgyu)](https://github.com/JeongTaekgyu/github-readme-stats)-->
+<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongTaekgyu&show_icons=true&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongTaekgyu&theme=tokyonight)-->
 
 <!--
 **JeongTaekgyu/JeongTaekgyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
