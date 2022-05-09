@@ -26,6 +26,14 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
 </div>
+<br><br>
+
+📌Notion
+<br>
+<div>
+Notion : https://www.notion.so/84fca307de5549c885062ebc13b7bf26
+</div>
+<br>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongTaekgyu)](https://github.com/JeongTaekgyu/github-readme-stats)-->
 <br><br>
