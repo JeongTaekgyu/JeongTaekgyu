@@ -42,11 +42,11 @@
 <div>
 Notion : https://www.notion.so/84fca307de5549c885062ebc13b7bf26
 </div>
-<br>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongTaekgyu)](https://github.com/JeongTaekgyu/github-readme-stats)-->
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongTaekgyu&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongTaekgyu&show_icons=true&theme=radical)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongTaekgyu&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongTaekgyu&theme=tokyonight)-->
 
 <!--
